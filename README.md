@@ -1,6 +1,6 @@
-### Hello! Welcome to my GitHub profile. 
-## Althought I am not a developer by profession, I am in love with technology, creating things, and learn how things work.
-## Coding happens to be the best proxy to satisfy all these needs of mine. 
+## Hello! Welcome to my GitHub profile. 
+#### Althought I am not a developer by profession, I am in love with technology, creating things, and learn how things work.
+#### Coding happens to be the best proxy to satisfy all these needs of mine. 
 
 
 Here are some ideas to get you started:
