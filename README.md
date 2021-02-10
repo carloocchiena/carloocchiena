@@ -1,16 +1,24 @@
-## Hello! Welcome to my GitHub profile. 
+## Hello! I am Carlo. :zap:
+### :computer: Welcome to my GitHub profile. 
 #### Althought I am not a developer by profession, I am in love with technology, creating things, and learn how things work.
 #### Coding happens to be the best proxy to satisfy all these needs of mine. 
 
+:chart_with_upwards_trend: I worked for a Swiss multinational company active in commodity trading for over 10 years covering various roles but always close to the technological field.
 
-Here are some ideas to get you started:
+:rocket: In 2021 I left this role to start my own company (<a href="www.google.com" taarget = "blank"> link missing, to be updated </a>).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:snake: I started programming with Python by chance in 2017. Now it's almost three years that I'm working and studying it more or less intensively.
+
+Sometimes I've been using JavaScript and studied a bit of C++ and C#, essentially to play with Unity. But mostly just experiments.
+:space_invader: I'm not a gamer but I'm very passionate about  everything revolving around video games. 
+
+:floppy_disk: I'm available for:
+- collaborations
+- open source projects
+- sharing learning and study methodologies
+
+You can also find me on <a href="https://www.linkedin.com/in/carloocchiena/" target="_blank">Linkedin</a>, <a href="https://twitter.com/carloocchiena" target="_blank">Twitter</a>
+and <a href="https://www.instagram.com/carloocchiena/" target="_blank">Instagram</a>. 
+Or even check my personal website that looks like a <a href="https://www.carloocchiena.com" target = "blank">terminal</a>
+
+Happy coding! :smile:
