@@ -1,7 +1,8 @@
 ## Hello! I am Carlo. :wave:
 ### :computer: Welcome to my GitHub profile. 
-#### Althought I am not a developer by profession, I am in love with technology, creating things, and learn how things work.
-#### :zap: Coding happens to be the best proxy to satisfy all these needs of mine. 
+#### Althought I am not a developer by profession, 
+#### I am in love with technology, creating things, and learn how things work.
+### :zap: Coding happens to be the best proxy to satisfy all these needs of mine. 
 
 :chart_with_upwards_trend: I worked for a Swiss multinational company active in commodity trading for over 10 years covering various roles but always close to the technological field.
 
