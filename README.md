@@ -1,5 +1,5 @@
 ## Hello! I am Carlo. :wave:
-### :computer: Welcome to my GitHub profile. 
+### :computer: Welcome to my GitHub repo. 
 #### Althought I am not a developer by profession, 
 #### I am in love with technology, creating things, and learn how things work.
 ### :zap: Coding happens to be the best proxy to satisfy all these needs of mine. 
