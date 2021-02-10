@@ -1,7 +1,7 @@
-## Hello! I am Carlo. :zap:
+## Hello! I am Carlo. :wave:
 ### :computer: Welcome to my GitHub profile. 
 #### Althought I am not a developer by profession, I am in love with technology, creating things, and learn how things work.
-#### Coding happens to be the best proxy to satisfy all these needs of mine. 
+#### :zap: Coding happens to be the best proxy to satisfy all these needs of mine. 
 
 :chart_with_upwards_trend: I worked for a Swiss multinational company active in commodity trading for over 10 years covering various roles but always close to the technological field.
 
@@ -10,6 +10,7 @@
 :snake: I started programming with Python by chance in 2017. Now it's almost three years that I'm working and studying it more or less intensively.
 
 Sometimes I've been using JavaScript and studied a bit of C++ and C#, essentially to play with Unity. But mostly just experiments.
+
 :space_invader: I'm not a gamer but I'm very passionate about  everything revolving around video games. 
 
 :floppy_disk: I'm available for:
