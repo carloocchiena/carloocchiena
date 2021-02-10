@@ -6,7 +6,7 @@
 
 :chart_with_upwards_trend: I worked for a Swiss multinational company active in commodity trading for over 10 years covering various roles but always close to the technological field.
 
-:rocket: In 2021 I left this job to start my own company (<a href="www.google.com" target = "blank"> link missing, to be updated </a>).
+:rocket: In 2021 I left this job to start my own company (<a href="https://www.google.com" target = "_blank"> link missing, to be updated </a>).
 
 :snake: I started programming with Python by chance in 2017. Now it's almost three years that I'm working and studying it more or less intensively.
 
@@ -19,8 +19,8 @@ Sometimes I've been using JavaScript and studied a bit of C++ and C#, essentiall
 - open source projects
 - sharing learning and study methodologies
 
-You can also find me on <a href="https://www.linkedin.com/in/carloocchiena/" target="blank">Linkedin</a>, <a href="https://twitter.com/carloocchiena" target="blank">Twitter</a>
-and <a href="https://www.instagram.com/carloocchiena/" target="blank">Instagram</a>. 
-Or even check my personal website that looks like a <a href="https://www.carloocchiena.com" target = "blank">terminal</a>
+You can also find me on <a href="https://www.linkedin.com/in/carloocchiena/" target="blank">Linkedin</a>, <a href="https://twitter.com/carloocchiena" target="_blank">Twitter</a>
+and <a href="https://www.instagram.com/carloocchiena/" target="_blank">Instagram</a>. 
+Or even check my personal website that looks like a <a href="https://www.carloocchiena.com" target = "_blank">terminal</a>
 
 Happy coding! :smile:
