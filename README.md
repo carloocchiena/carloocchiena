@@ -10,7 +10,7 @@
 
 :snake: I started programming with Python by chance in 2017. Since then, I've been working with it and studying it more or less intensively.
 
-Sometimes I've been using JavaScript and studied a bit of C++ and C#, essentially to play with Unity. But mostly just experiments.
+Sometimes I've been using JavaScript and studied a bit of C++ and C#, the latter essentially to play with Unity. But mostly just experiments.
 
 :space_invader: I'm not a gamer but I'm very passionate about  everything revolving around video games. 
 
