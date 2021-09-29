@@ -26,7 +26,6 @@ Or even check my personal website that looks like a <a href="https://www.carlooc
 Happy coding! :smile:
 <br>
 <br>
-<br>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=carloocchiena&count_private=true&theme=white&showicons=true)]()
 
