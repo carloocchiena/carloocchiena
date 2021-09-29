@@ -24,10 +24,13 @@ and <a href="https://www.instagram.com/carloocchiena/" target="_blank">Instagram
 Or even check my personal website that looks like a <a href="https://www.carloocchiena.com" target = "_blank">terminal</a>
 
 Happy coding! :smile:
+<br>
+<br>
+<br>
 
-
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carloocchiena&langs_count=5&theme=white)]()
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=carloocchiena&count_private=true&theme=white&showicons=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carloocchiena&langs_count=5&theme=white)]()
+
 
