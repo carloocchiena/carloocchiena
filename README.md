@@ -27,5 +27,7 @@ Happy coding! :smile:
 
 
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=carloocchiena&count_private=true&theme=white&showicons=true)]()
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carloocchiena&langs_count=5&theme=white)]()
 
