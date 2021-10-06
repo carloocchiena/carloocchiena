@@ -8,7 +8,9 @@
 
 :rocket: In 2021 I left this job to start my own company, <a href="https://www.azionadigitale.com/" target = "_blank"> Aziona. </a>
 
-:snake: I started programming with Python by chance in 2017. Since then, I've been working with it and studying it more or less intensively.
+:computer: I had my first 386dx at 12. It was love at first sight. And I never stopped that relationship.
+
+:snake: I took a methodical approach to programming with Python in 2017. Since then, I've been working with it and studying it more or less intensively.
 
 Sometimes I've been using JavaScript and studied a bit of C++ and C#, the latter essentially to play with Unity. But mostly just experiments.
 
