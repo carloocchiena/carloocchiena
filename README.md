@@ -23,7 +23,7 @@ Sometimes I've been using JavaScript and studied a bit of C++ and C#, the latter
 
 You can also find me on <a href="https://www.linkedin.com/in/carloocchiena/" target="blank">Linkedin</a>, <a href="https://twitter.com/carloocchiena" target="_blank">Twitter</a>
 and <a href="https://www.instagram.com/carloocchiena/" target="_blank">Instagram</a>. 
-Or even check my personal website that looks like a <a href="https://www.carloocchiena.com" target = "_blank">terminal</a>
+Or even check my personal website that looks like a <a href="https://www.carloocchiena.com" target = "_blank">terminal</a>.
 
 Happy coding! :smile:
 <br>
