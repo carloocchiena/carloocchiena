@@ -34,9 +34,7 @@ Happy coding! :smile:
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carloocchiena&langs_count=9&layout=compact&theme=white)]() 
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=antocuni&count_private=true&theme=white&show_icons=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=antocuni&langs_count=9&layout=compact&theme=white)]() 
 
 
 
