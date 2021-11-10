@@ -2,7 +2,7 @@
 ### :computer: Welcome to my GitHub repo. 
 #### I am in love with technology, creating things, and learn how things work.
 #### I founded a (wip) tech company, althought I am not a developer by profession.
-### :zap: Coding happens to be the best proxy to satisfy all these needs of mine. 
+### :zap: Coding happens to be the best proxy to satisfy my thirst for knowledge, having fun along the way. 
 
 :chart_with_upwards_trend: I worked for a Swiss multinational company active in commodity trading for over 10 years covering various roles but always close to the technological field.
 
