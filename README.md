@@ -12,7 +12,7 @@
 
 :snake: I took a methodical approach to programming with Python in 2017. Since then, I've been working with it and studying it more or less intensively.
 
-:comet: I like to experiment and try new things. I have studied and experimented with Solidity, C#, C++, Java, JavaScript, and even Assembly. 
+:comet: I like to experiment and try new things. I have studied and played with Solidity, C#, C++, Java, JavaScript, and Assembly. 
 
 :floppy_disk: I'm available for:
 - collaborations
