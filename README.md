@@ -4,7 +4,7 @@
 #### I founded a (wip) tech company, althought I am not a developer by profession.
 ### :zap: Coding happens to be the best proxy to satisfy my thirst for knowledge, having fun along the way. 
 
-:chart_with_upwards_trend: I worked for a Swiss multinational company active in commodity trading for over 10 years covering various roles but always close to the technological field.
+:chart_with_upwards_trend: I worked for a Swiss multinational company active in commodity trading for over 10 years covering various roles but always close to the technological field (risk management, digital ops).
 
 :rocket: In 2021 I left this job to start my own company, <a href="https://www.azionadigitale.com/" target = "_blank"> Aziona. </a>
 
