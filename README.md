@@ -1,3 +1,5 @@
+![](https://countrush-prod.azurewebsites.net/l/badge/?repository=carloocchiena)
+
 ## Hello! I am Carlo. :wave:
 ### :computer: Welcome to my GitHub repo. 
 #### I am in love with technology, creating things, and learn how things work.
