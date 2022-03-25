@@ -1,4 +1,4 @@
-![](https://countrush-prod.azurewebsites.net/l/badge/?repository=carloocchiena)
+![](https://countrush-prod.azurewebsites.net/l/badge/?repository=carloocchiena) ![](https://img.shields.io/github/stars/carloocchiena?label=GitHub%20stars)
 
 ## Hello! I am Carlo. :wave:
 ### :computer: Welcome to my GitHub repo. 
