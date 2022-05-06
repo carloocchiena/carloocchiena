@@ -3,7 +3,7 @@
 ## Hello! I am Carlo. :wave:
 ### :computer: Welcome to my GitHub repo. 
 #### I am in love with technology, creating things, and learn how things work.
-#### I founded a (wip) tech company, althought I am not a developer by profession.
+#### I founded a (wip) tech company, moving from a managerial role in a large company to a strictly operational role in my startup.
 ### :zap: Coding happens to be the best proxy to satisfy my thirst for knowledge, having fun along the way. 
 
 :chart_with_upwards_trend: I worked for a Swiss multinational company active in commodity trading for over 10 years covering various roles but always close to the technological field (risk management, digital ops).
