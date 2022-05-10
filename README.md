@@ -31,7 +31,7 @@ Happy coding! :smile:
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=carloocchiena&count_private=true&theme=white&show_icons=true)]()
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carloocchiena&langs_count=12&layout=compact&theme=white)]() 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carloocchiena&langs_count=16&layout=compact&theme=white)]() 
 
 
 
