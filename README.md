@@ -29,7 +29,7 @@ Happy coding! :smile:
 <br>
 <br>
 
-(counter below are broken, issues already wip! ⬇️)
+(counters below are broken, issue already wip! ⬇️)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=carloocchiena&count_private=true&theme=white&show_icons=true)]()
 
