@@ -1,4 +1,4 @@
-![](https://countrush-prod.azurewebsites.net/l/badge/?repository=carloocchiena) ![](https://img.shields.io/github/stars/carloocchiena?label=GitHub%20stars)
+![](https://countrush-prod.azurewebsites.net/l/badge/?repository=carloocchiena) ![](https://img.shields.io/github/stars/carloocchiena?label=GitHub%20stars) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
 ## Hello! I am Carlo. :wave:
 ### :computer: Welcome to my GitHub repo. 
