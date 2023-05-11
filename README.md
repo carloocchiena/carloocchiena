@@ -6,7 +6,7 @@
 #### I founded a (wip) tech company, moving from a managerial role in a large company to a strictly operational role in my startup.
 ### :zap: Coding happens to be the best proxy to satisfy my thirst for knowledge, having fun along the way. 
 
-:chart_with_upwards_trend: I worked for a Swiss multinational company active in commodity trading for over 10 years covering various roles but always close to the technological field (risk management, digital ops).
+:chart_with_upwards_trend: I worked for a Swiss multinational company leader in energy and commodity trading for 12 years covering various roles but always close to the technological field (risk management, digital ops).
 
 :rocket: In 2021 I left this job to start my own company, <a href="https://www.azionadigitale.com/" target = "_blank"> Aziona. </a>
 
