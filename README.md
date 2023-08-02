@@ -17,9 +17,9 @@
 :comet: I like to experiment and try new things. I had done projects on Assembly, C#, C++, Java, JavaScript, Solidity, TypeScript, Rust. I define myself language and technology agnostic, being adverse to a polarized approach ("fanboyism").
 
 :floppy_disk: I'm available for:
-- collaborations
-- open source projects
-- sharing learning and study methodologies
+- Collaborations.
+- Open source projects.
+- Sharing learning and study methodologies.
 
 You can also find me on <a href="https://www.linkedin.com/in/carloocchiena/" target="blank">Linkedin</a>, <a href="https://twitter.com/carloocchiena" target="_blank">Twitter</a>
 and <a href="https://www.instagram.com/carloocchiena/" target="_blank">Instagram</a>. 
