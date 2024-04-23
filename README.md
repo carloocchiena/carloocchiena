@@ -10,7 +10,7 @@
 
 :rocket: In 2021 I left this job to start my own company, <a href="https://www.azionadigitale.com/" target = "_blank"> Aziona. </a>
 
-:computer: I had my first <a href="https://i.ytimg.com/vi/qoN0HhDnRR8/maxresdefault.jpg" target="_blank">386dx</a> at 12. It was love at first sight. And I never stopped that relationship.
+:computer: I had my first pc, a 386dx at 12. The Internet era was still to come. Trial and (many, many) errors was the common approach. However it was love at first sight. And I never stopped that relationship.
 
 :snake: I took a methodical approach to programming with Python in 2017. Since then, I've been working with it and studying it more or less intensively.
 
