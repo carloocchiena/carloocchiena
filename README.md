@@ -14,7 +14,7 @@
 
 :snake: I took a methodical approach to programming with Python in 2017. Since then, I've been working with it and studying it more or less intensively.
 
-:comet: I like to experiment and try new things. I had done projects on Assembly, C#, C++, Java, JavaScript, Solidity, TypeScript, Rust. I define myself language and technology agnostic, being adverse to a polarized approach ("fanboyism").
+:comet: I like to experiment and try new things.
 
 :floppy_disk: I'm available for:
 - Collaborations.
