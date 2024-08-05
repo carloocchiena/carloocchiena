@@ -3,9 +3,8 @@
 ## Hello! I am Carlo. :wave:
 ### :computer: Welcome to my GitHub repo. 
 #### I am in love with technology, creating things, and learn how things work.
-### :zap: Coding happens to be the best proxy to satisfy my thirst for knowledge, having fun along the way. 
 
-:chart_with_upwards_trend: 15+ years of expertise in energy & commodity markets (Risk Management >>> Middle Office Manager >>> Digital Ops Manager).
+:chart_with_upwards_trend: 15+ years of expertise in energy & commodity markets (Risk Management >>> Middle Office Manager >>> Digital Operations Manager).
 
 :rocket: I started my own company,<a href="https://www.azionadigitale.com/" target = "_blank"> Aziona</a>, in 2021.
 
