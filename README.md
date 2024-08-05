@@ -3,18 +3,13 @@
 ## Hello! I am Carlo. :wave:
 ### :computer: Welcome to my GitHub repo. 
 #### I am in love with technology, creating things, and learn how things work.
-#### I founded a (wip) tech company, moving from a managerial role in a large company to a strictly operational role in my startup.
 ### :zap: Coding happens to be the best proxy to satisfy my thirst for knowledge, having fun along the way. 
 
-:chart_with_upwards_trend: I worked for a Swiss multinational company leader in energy and commodity trading for 12 years covering various roles but always close to the technological field (risk management, digital ops).
+:chart_with_upwards_trend: 15+ years of expertise in energy & commodity markets (Risk Management >>> Middle Office Manager >>> Digital Ops Manager).
 
-:rocket: In 2021 I left this job to start my own company, <a href="https://www.azionadigitale.com/" target = "_blank"> Aziona. </a>
+:rocket: I started my own company,<a href="https://www.azionadigitale.com/" target = "_blank"> Aziona</a>, in 2021.
 
-:computer: I had my first pc, a 386dx at 12. The Internet era was still to come. Trial and (many, many) errors was the common approach. However it was love at first sight. And I never stopped that relationship.
-
-:snake: I took a methodical approach to programming with Python in 2017. Since then, I've been working with it and studying it more or less intensively.
-
-:comet: I like to experiment and try new things.
+:comet: I like to experiment and try new things. I study everyday.
 
 :floppy_disk: I'm available for:
 - Collaborations.
