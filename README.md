@@ -4,10 +4,10 @@
 ### :computer: Welcome to my GitHub repo. 
 #### I am in love with technology, creating things, and learn how things work.
 
-:chart_with_upwards_trend: 15+ years of expertise in energy & commodity markets.
-:zap: Risk Management >>> Middle Office Manager >>> Digital Operations Manager).
-:rocket: I started my own company,<a href="https://www.azionadigitale.com/" target = "_blank"> Aziona</a>, in 2021.
-:comet: I like to experiment and try new things. I study everyday.
+:chart_with_upwards_trend: 15+ years of expertise in energy & commodity markets.<br>
+:zap: Risk Management >>> Middle Office Manager >>> Digital Operations Manager).<br>
+:rocket: I started my own company,<a href="https://www.azionadigitale.com/" target = "_blank"> Aziona</a>, in 2021.<br>
+:comet: I like to experiment and try new things. I study everyday.<br>
 
 :floppy_disk: I'm available for:
 - Collaborations.
