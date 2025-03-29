@@ -6,7 +6,7 @@
 
 :artificial_satellite: BSc in Economics & Finance from University of Genoa with a thesis on [Econophysics](https://github.com/carloocchiena/quant).<br>
 :chart_with_upwards_trend: 15+ years of expertise in energy & commodity markets.<br>
-:zap: Risk Management >>> Middle Office Manager >>> Digital Operations Manager.<br>
+:zap: Data Science + Risk Management + Computer Science.<br>
 :rocket: I started my own company,<a href="https://www.azionadigitale.com/" target = "_blank"> Aziona</a>, in 2021.<br>
 :comet: I like to experiment and try new things. I study everyday.<br>
 
