@@ -4,7 +4,7 @@
 ### :computer: Welcome to my GitHub repo. 
 #### I am in love with technology, creating things, and learn how things work.
 
-:artificial_satellite: BSc in Economics & Finance from University of Genoa with a thesis on [Econophysics](https://github.com/carloocchiena/quant).<br>
+:artificial_satellite: BSc in Economics & Finance from University of Genoa with [a thesis on Econophysics](https://github.com/carloocchiena/quant).<br>
 :chart_with_upwards_trend: 15+ years of expertise in energy & commodity markets.<br>
 :zap: Data Science + Risk Management + Computer Science.<br>
 :rocket: Co-founded <a href="https://www.azionadigitale.com/" target = "_blank"> Aziona</a> in 2021.<br>
